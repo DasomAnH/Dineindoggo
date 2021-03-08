@@ -1,4 +1,4 @@
-# **Dine-In Doggos** <!-- omit in toc -->
+# **[Dine-In Doggos](https://plooney81.github.io/front-end-project/)** <!-- omit in toc -->
 
 Dine-In Doggos is a website built for dealing with an age-old question: Can we take our best buddy with us when we go out to our favorite restaurants? If you're anything like us, you have often wondered what restaurants in your area allow man's best friend to come with you, and Dine-In Doggos is your site!
 
@@ -9,15 +9,15 @@ Dine-In Doggos is a website built for dealing with an age-old question: Can we t
 - [**Credit** and **Licenses**](#credit-and-licenses)
 
 ## **General**
-
 Dine-In Doggos was built using the following technologies and libraries:
-* Jquery
-* Boostrap
+* ![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+* ![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+* ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+* ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+* ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 * Ajax
 * JSON
-* JavaScript
-* HTML
-* CSS
 
 Our team members were: [Dasom Huber](https://github.com/DasomAnH), [Katherine Frain](https://github.com/katherfrain), and [Peter Looney](https://github.com/plooney81).
 
@@ -80,3 +80,4 @@ Throughout the project, the group overcame many obstacles. These included:
 ## **Credit** and **Licenses**
 * The Dine-In Doggo Logo was created by Font Awesome:
 [Font Awesome License](https://fontawesome.com/license)
+
